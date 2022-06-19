@@ -9,6 +9,7 @@ public class TabliceDemo1 {
         liczby[0] = 10;
         liczby[1] = 13;
         liczby[2] = 24;
+
         System.out.println(liczby[1]);
 
         int cena = liczby[2];

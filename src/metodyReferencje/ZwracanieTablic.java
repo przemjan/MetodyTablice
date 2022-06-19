@@ -12,7 +12,9 @@ public class ZwracanieTablic {
         int size = scanner.nextInt();
 
         int[] wartosci = createArray(size);
+
         fillArray(wartosci);
+
         printArray(wartosci);
 
 

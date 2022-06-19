@@ -4,6 +4,7 @@ public class Metoda3 {
     public static void main(String[] args) {
         int liczba1 =10, liczba2 = 7;
         int suma;
+
         suma = dodaj(liczba1,liczba2);
 
         System.out.println("Suma wynosi: " + suma);

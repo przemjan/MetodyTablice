@@ -21,9 +21,11 @@ public class Metoda5 {
 
     }
     public static int dodaj(int liczba1, int liczba2){
+
         return liczba1+liczba2;
     }
     public static double dodaj(double liczba1, double liczba2){
+
         return liczba1+liczba2;
     }
     public static double dodaj(double liczba1, int liczba2){

@@ -12,6 +12,7 @@ public class TabliceDemo3 {
 
         for (int i:liczby){
             System.out.println(i);
+
         }
 
     }
